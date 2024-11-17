@@ -1,0 +1,1 @@
+echo -e '* "May thy knife chip and shatter"\n* "A Great Man Doesn\'t Seek To Lead. He\'s Called To It."\n* "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"\n* "When Is A Gift Not A Gift?"' > quotes/dune.md
